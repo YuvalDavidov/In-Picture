@@ -1,0 +1,46 @@
+body {
+    text-align: center;
+    background-color: rgb(193 191 255);
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: lightskyblue;
+    margin-bottom: 0;
+}
+
+img {
+    border-radius: 5%;
+    height: 200px;
+    width: auto;
+
+}
+
+.question {
+    background-color: rgba(156, 76, 231, 0.605);
+    width: 150px;
+    margin: auto;
+    border-radius: 10%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.answers {
+
+    position: absolute;
+
+
+}
+
+/* 
+.answer {
+    width: 200px;
+    background-color: #d6f080ad;
+    border: solid 5px #90eee4;
+
+}
+
+.answer:hover {
+    background-color: #9eb457ad;
+    cursor: pointer
+} */
